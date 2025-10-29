@@ -1,0 +1,3 @@
+echo "<h1>Hello Git</h1>" > index.css
+echo "body { font-family: sans-serif; }" > style.css
+echo "This is a README file." > README.md
